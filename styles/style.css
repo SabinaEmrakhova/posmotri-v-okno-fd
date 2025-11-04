@@ -251,6 +251,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 }
 .search-form__label:hover .search-form__label-text {
   text-decoration: underline;
-  text-underline-offset: 3px;
   cursor: pointer;
+  text-underline-offset: 3px;
+  
 }
