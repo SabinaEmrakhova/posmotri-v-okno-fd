@@ -237,16 +237,16 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 .content__card-link_current {
   background-color: #545050;
 }
-.content__video-card:hover {
+.content__card-link:hover {
   text-decoration: underline;
 }
-.content__video-card:active {
+.content__card-link:active {
   background-color: #545050;
 }
-.content__video-card:focus {
+.content__card-link:focus {
   outline: none;
 }
-.content__video-card:focus-visible {
+.content__card-link:focus-visible {
   outline: 1px solid #fff;
 }
 .search-form__label:hover .search-form__label-text {
